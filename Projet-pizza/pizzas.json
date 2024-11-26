@@ -1,0 +1,50 @@
+{
+  "Name" : "Chez Pedro",
+  "Slogan" : "Pizzaïolo de père en fils depuis 2022",
+  "Pizzas" : [
+  {
+      "Nom" : "La Cheese Lover ",
+      "Image" : "https://img.cuisineaz.com/660x660/2016/09/03/i88007-pizza-trois-fromages.jpg",
+      "Prix" : "12.90 €",
+      "Ingredients" : [
+          "Feta" ,
+          "Bleu", 
+          "Mozza",
+          "Parmesan",
+          "Raclette",
+          "Camembert",
+          "Asiago"
+      ]    
+  },
+  {
+      "Nom" : "La hawaïenne",
+      "Image" : "https://assets.afcdn.com/recipe/20170328/63885_w1024h576c1cx1500cy1000.webp",
+      "Prix" : "58,90 €",
+      "Ingredients" : [
+          "Mozza" ,
+          "Poulets", 
+          "Ananas",
+          "Olives"
+      ]    
+  },
+  {
+      "Nom" : "La Reine ",
+      "Image" : "https://recette.supertoinette.com/150260/m/pizza-napolitaine.jpg",
+      "Prix" : "19.90",
+      "Ingredients" : [
+          "Mozza" ,
+          "Jambon", 
+          "Tomate"
+      ]    
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ]
+  }
